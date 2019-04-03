@@ -304,7 +304,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 
 * [CircleCI](https://circleci.com) - A continuous integration platform.
 * [GitlabCi](https://about.gitlab.com/gitlab-ci/) - Let GitLab CI test, build, deploy your code. TravisCi like.
-* [Jenkins](https://jenkins.io/index.html) - A continous integration platform with [PHP support](http://jenkins-php.org/index.html).
+* [Jenkins](https://jenkins.io/index.html) - A continuous integration platform with [PHP support](http://jenkins-php.org/index.html).
 * [JoliCi](https://github.com/jolicode/JoliCi) - A continuous integration client written in PHP and powered by Docker.
 * [PHPCI](https://www.phptesting.org/) - An open source continuous integration platform for PHP.
 * [SemaphoreCI](https://semaphoreci.com/) - A continuous integration platform for open source and private projects.
@@ -333,7 +333,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 * [PHPSecLib](http://phpseclib.sourceforge.net/) - A pure PHP secure communications library.
 * [random_compat](https://github.com/paragonie/random_compat) - PHP 5.x support for `random_bytes()` and `random_int()`
 * [RandomLib](https://github.com/ircmaxell/RandomLib) - A library for generating random numbers and strings.
-* [SensioLabs Security Check](https://security.sensiolabs.org/) - A web tool to check your Composer dependencies for security advisories.
+* [Symfony Security Monitoring](https://security.symfony.com/) - A web tool to check your Composer dependencies for security advisories, previously known as "SensioLabs Security Check".
 * [TCrypto](https://github.com/timoh6/TCrypto) - A simple encrypted key-value storage library.
 * [VAddy](https://vaddy.net/) - A continuous security testing platform for web applications.
 * [Zed](https://www.owasp.org/index.php/OWASP_Zed_Attack_Proxy_Project) - An integrated penetration testing tool for web applications.
@@ -839,7 +839,6 @@ Various resources, such as books, websites and articles, for improving your PHP 
 *Useful websites related to web development.*
 
 * [Atlassian Git Tutorials](https://www.atlassian.com/git) - A series of Git tutorials.
-* [Hg Init](http://hginit.com/) - A series of Mercurial tutorials.
 * [Learning Linux](https://linuxjourney.com/) - A website for learning Linux.
 * [Semantic Versioning](https://semver.org/) - A website explaining semantic versioning.
 * [Servers for Hackers](https://serversforhackers.com/) - A newsletter about server management.
